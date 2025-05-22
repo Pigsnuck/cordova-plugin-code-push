@@ -8,7 +8,7 @@
 
 
 "use strict";
-var DefaultServerUrl = "https://codepush.appcenter.ms/";
+var DefaultServerUrl = "https://codepush.paraglidingmap.com/";
 var NativeAppInfo = (function () {
     function NativeAppInfo() {
     }
