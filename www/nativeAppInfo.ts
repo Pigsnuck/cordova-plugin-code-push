@@ -5,7 +5,7 @@
 
 declare var cordova: Cordova;
 
-const DefaultServerUrl: string = "https://codepush.appcenter.ms/";
+const DefaultServerUrl: string = "https://codepush.paraglidingmap.com/";
 
 /**
  * Provides information about the native app.
